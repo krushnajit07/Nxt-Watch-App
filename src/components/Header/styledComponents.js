@@ -14,6 +14,7 @@ export const NavbarHeader = styled.nav`
   @media screen and (min-width: 768px) {
     padding-left: 30px;
     padding-right: 30px;
+    
   }
 `
 export const HeaderLogo = styled.img`
